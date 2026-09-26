@@ -1,0 +1,19 @@
+.nav-pills {
+    --bs-nav-pills-link-active-bg: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav {
+    --bs-nav-link-hover-color: black;
+}
+
+.saksham {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ht {
+    display: inline;
+}
